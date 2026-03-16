@@ -1,4 +1,3 @@
-Codificando entre Notas e Dados 🐍
 Hobbista de Ciência de Dados com um pé no Python e o outro na Música.
 ​📊 Transformando tabelas SQL em conhecimento.
 ​🎹 Experimentando com Processamento de Sinais de Áudio (DSP).
